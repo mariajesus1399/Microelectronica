@@ -1,0 +1,157 @@
+time=    0, Simulation Start
+time=    0, Starting Reset
+time=  240, Reset Completed
+time=  240, Starting Test mode 00
+Time=260 Error dut: load=x, rco=0, Q=xxxx, scoreboard: load=1, rco=0 , Q=xxxx 
+Time=300 Error dut: load=x, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=340 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=380 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=420 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=460 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=500 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=540 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=580 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=620 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=660 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=700 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=740 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=780 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=820 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=860 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=900 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=940 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=980 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1020 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1060 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1100 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1140 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1180 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1220 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1260 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1300 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1340 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1380 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1420 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1460 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1500 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1540 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1580 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1620 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1660 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1700 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1740 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1780 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1820 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1860 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1900 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1940 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=1980 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=2020 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=2060 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=2100 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=2140 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=2180 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+Time=2220 Error dut: load=0, rco=x, Q=xxxx, scoreboard: load=0, rco=0 , Q=xxxx 
+time= 2240, Test mode 00 completed 
+time= 2480, Starting Test mode 01
+Time=2540 Error dut: load=0, rco=0, Q=0010, scoreboard: load=0, rco=0 , Q=0001 
+Time=2620 Error dut: load=0, rco=1, Q=0000, scoreboard: load=0, rco=0 , Q=1111 
+Time=2700 Error dut: load=0, rco=0, Q=1110, scoreboard: load=0, rco=0 , Q=1101 
+Time=2780 Error dut: load=0, rco=0, Q=1100, scoreboard: load=0, rco=0 , Q=1011 
+Time=2860 Error dut: load=0, rco=0, Q=1010, scoreboard: load=0, rco=0 , Q=1001 
+Time=2940 Error dut: load=0, rco=0, Q=1000, scoreboard: load=0, rco=0 , Q=0111 
+Time=3020 Error dut: load=0, rco=0, Q=0110, scoreboard: load=0, rco=0 , Q=0101 
+Time=3100 Error dut: load=0, rco=0, Q=0100, scoreboard: load=0, rco=0 , Q=0011 
+Time=3180 Error dut: load=0, rco=0, Q=0010, scoreboard: load=0, rco=0 , Q=0001 
+Time=3260 Error dut: load=0, rco=1, Q=0000, scoreboard: load=0, rco=0 , Q=1111 
+Time=3340 Error dut: load=0, rco=0, Q=1110, scoreboard: load=0, rco=0 , Q=1101 
+Time=3420 Error dut: load=0, rco=0, Q=1100, scoreboard: load=0, rco=0 , Q=1011 
+Time=3500 Error dut: load=0, rco=0, Q=1010, scoreboard: load=0, rco=0 , Q=1001 
+Time=3580 Error dut: load=0, rco=0, Q=1000, scoreboard: load=0, rco=0 , Q=0111 
+Time=3660 Error dut: load=0, rco=0, Q=0110, scoreboard: load=0, rco=0 , Q=0101 
+Time=3740 Error dut: load=0, rco=0, Q=0100, scoreboard: load=0, rco=0 , Q=0011 
+Time=3820 Error dut: load=0, rco=0, Q=0010, scoreboard: load=0, rco=0 , Q=0001 
+Time=3900 Error dut: load=0, rco=1, Q=0000, scoreboard: load=0, rco=0 , Q=1111 
+Time=3980 Error dut: load=0, rco=0, Q=1110, scoreboard: load=0, rco=0 , Q=1101 
+Time=4060 Error dut: load=0, rco=0, Q=1100, scoreboard: load=0, rco=0 , Q=1011 
+Time=4140 Error dut: load=0, rco=0, Q=1010, scoreboard: load=0, rco=0 , Q=1001 
+Time=4220 Error dut: load=0, rco=0, Q=1000, scoreboard: load=0, rco=0 , Q=0111 
+Time=4300 Error dut: load=0, rco=0, Q=0110, scoreboard: load=0, rco=0 , Q=0101 
+Time=4380 Error dut: load=0, rco=0, Q=0100, scoreboard: load=0, rco=0 , Q=0011 
+Time=4460 Error dut: load=0, rco=0, Q=0010, scoreboard: load=0, rco=0 , Q=0001 
+time= 4480, Test mode 01 completed 
+time= 4720, Starting Test mode 10
+Time=4780 Error dut: load=0, rco=0, Q=1110, scoreboard: load=0, rco=0 , Q=0001 
+Time=4860 Error dut: load=0, rco=0, Q=0100, scoreboard: load=0, rco=0 , Q=0111 
+Time=4940 Error dut: load=0, rco=0, Q=1010, scoreboard: load=0, rco=0 , Q=1101 
+Time=5020 Error dut: load=0, rco=0, Q=0000, scoreboard: load=0, rco=0 , Q=0011 
+Time=5100 Error dut: load=0, rco=0, Q=0110, scoreboard: load=0, rco=0 , Q=1001 
+Time=5180 Error dut: load=0, rco=0, Q=1100, scoreboard: load=0, rco=1 , Q=1111 
+Time=5260 Error dut: load=0, rco=0, Q=0010, scoreboard: load=0, rco=0 , Q=0101 
+Time=5340 Error dut: load=0, rco=0, Q=1000, scoreboard: load=0, rco=0 , Q=1011 
+Time=5420 Error dut: load=0, rco=0, Q=1110, scoreboard: load=0, rco=0 , Q=0001 
+Time=5500 Error dut: load=0, rco=0, Q=0100, scoreboard: load=0, rco=0 , Q=0111 
+Time=5580 Error dut: load=0, rco=0, Q=1010, scoreboard: load=0, rco=0 , Q=1101 
+Time=5660 Error dut: load=0, rco=0, Q=0000, scoreboard: load=0, rco=0 , Q=0011 
+Time=5740 Error dut: load=0, rco=0, Q=0110, scoreboard: load=0, rco=0 , Q=1001 
+Time=5820 Error dut: load=0, rco=0, Q=1100, scoreboard: load=0, rco=1 , Q=1111 
+Time=5900 Error dut: load=0, rco=0, Q=0010, scoreboard: load=0, rco=0 , Q=0101 
+Time=5980 Error dut: load=0, rco=0, Q=1000, scoreboard: load=0, rco=0 , Q=1011 
+Time=6060 Error dut: load=0, rco=0, Q=1110, scoreboard: load=0, rco=0 , Q=0001 
+Time=6140 Error dut: load=0, rco=0, Q=0100, scoreboard: load=0, rco=0 , Q=0111 
+Time=6220 Error dut: load=0, rco=0, Q=1010, scoreboard: load=0, rco=0 , Q=1101 
+Time=6300 Error dut: load=0, rco=0, Q=0000, scoreboard: load=0, rco=0 , Q=0011 
+Time=6380 Error dut: load=0, rco=0, Q=0110, scoreboard: load=0, rco=0 , Q=1001 
+Time=6460 Error dut: load=0, rco=0, Q=1100, scoreboard: load=0, rco=1 , Q=1111 
+Time=6540 Error dut: load=0, rco=0, Q=0010, scoreboard: load=0, rco=0 , Q=0101 
+Time=6620 Error dut: load=0, rco=0, Q=1000, scoreboard: load=0, rco=0 , Q=1011 
+Time=6700 Error dut: load=0, rco=0, Q=1110, scoreboard: load=0, rco=0 , Q=0001 
+time= 6720, Test mode 10 completed 
+time= 6960, Starting Test mode 11
+Time=7020 Error dut: load=0, rco=0, Q=0110, scoreboard: load=1, rco=0 , Q=0000 
+Time=7180 Error dut: load=1, rco=0, Q=0011, scoreboard: load=1, rco=0 , Q=0001 
+Time=7340 Error dut: load=1, rco=0, Q=0010, scoreboard: load=1, rco=0 , Q=0001 
+Time=7420 Error dut: load=1, rco=0, Q=0001, scoreboard: load=1, rco=0 , Q=0010 
+Time=7580 Error dut: load=1, rco=0, Q=0000, scoreboard: load=1, rco=0 , Q=0001 
+Time=7660 Error dut: load=1, rco=0, Q=0010, scoreboard: load=1, rco=0 , Q=0001 
+Time=7740 Error dut: load=1, rco=0, Q=0010, scoreboard: load=1, rco=0 , Q=0001 
+Time=7820 Error dut: load=1, rco=0, Q=0011, scoreboard: load=1, rco=0 , Q=0010 
+Time=7900 Error dut: load=1, rco=0, Q=0011, scoreboard: load=1, rco=0 , Q=0010 
+Time=7980 Error dut: load=1, rco=0, Q=0010, scoreboard: load=1, rco=0 , Q=0000 
+Time=8060 Error dut: load=1, rco=0, Q=0001, scoreboard: load=1, rco=0 , Q=0000 
+Time=8220 Error dut: load=1, rco=0, Q=0001, scoreboard: load=1, rco=0 , Q=0011 
+Time=8300 Error dut: load=1, rco=0, Q=0010, scoreboard: load=1, rco=0 , Q=0000 
+Time=8380 Error dut: load=1, rco=0, Q=0000, scoreboard: load=1, rco=0 , Q=0010 
+Time=8460 Error dut: load=1, rco=0, Q=0001, scoreboard: load=1, rco=0 , Q=0010 
+Time=8540 Error dut: load=1, rco=0, Q=0011, scoreboard: load=1, rco=0 , Q=0001 
+Time=8700 Error dut: load=1, rco=0, Q=0001, scoreboard: load=1, rco=0 , Q=0010 
+Time=8780 Error dut: load=1, rco=0, Q=0010, scoreboard: load=1, rco=0 , Q=0001 
+time= 8960, Test mode 11 completed 
+time= 9200, Starting Test mode 00
+Time=9260 Error dut: load=1, rco=0, Q=0000, scoreboard: load=0, rco=0 , Q=0001 
+Time=9340 Error dut: load=0, rco=0, Q=0010, scoreboard: load=0, rco=0 , Q=0011 
+Time=9420 Error dut: load=0, rco=0, Q=0100, scoreboard: load=0, rco=0 , Q=0101 
+Time=9500 Error dut: load=0, rco=0, Q=0110, scoreboard: load=0, rco=0 , Q=0111 
+Time=9580 Error dut: load=0, rco=0, Q=1000, scoreboard: load=0, rco=0 , Q=1001 
+Time=9660 Error dut: load=0, rco=0, Q=1010, scoreboard: load=0, rco=0 , Q=1011 
+Time=9740 Error dut: load=0, rco=0, Q=1100, scoreboard: load=0, rco=0 , Q=1101 
+Time=9820 Error dut: load=0, rco=0, Q=1110, scoreboard: load=0, rco=1 , Q=1111 
+Time=9900 Error dut: load=0, rco=0, Q=0000, scoreboard: load=0, rco=0 , Q=0001 
+Time=9980 Error dut: load=0, rco=0, Q=0010, scoreboard: load=0, rco=0 , Q=0011 
+Time=10060 Error dut: load=0, rco=0, Q=0100, scoreboard: load=0, rco=0 , Q=0101 
+Time=10140 Error dut: load=0, rco=0, Q=0110, scoreboard: load=0, rco=0 , Q=0111 
+Time=10220 Error dut: load=0, rco=0, Q=1000, scoreboard: load=0, rco=0 , Q=1001 
+Time=10300 Error dut: load=0, rco=0, Q=1010, scoreboard: load=0, rco=0 , Q=1011 
+Time=10380 Error dut: load=0, rco=0, Q=1100, scoreboard: load=0, rco=0 , Q=1101 
+Time=10460 Error dut: load=0, rco=0, Q=1110, scoreboard: load=0, rco=1 , Q=1111 
+Time=10540 Error dut: load=0, rco=0, Q=0000, scoreboard: load=0, rco=0 , Q=0001 
+Time=10620 Error dut: load=0, rco=0, Q=0010, scoreboard: load=0, rco=0 , Q=0011 
+Time=10700 Error dut: load=0, rco=0, Q=0100, scoreboard: load=0, rco=0 , Q=0101 
+Time=10780 Error dut: load=0, rco=0, Q=0110, scoreboard: load=0, rco=0 , Q=0111 
+Time=10860 Error dut: load=0, rco=0, Q=1000, scoreboard: load=0, rco=0 , Q=1001 
+Time=10940 Error dut: load=0, rco=0, Q=1010, scoreboard: load=0, rco=0 , Q=1011 
+Time=11020 Error dut: load=0, rco=0, Q=1100, scoreboard: load=0, rco=0 , Q=1101 
+Time=11100 Error dut: load=0, rco=0, Q=1110, scoreboard: load=0, rco=1 , Q=1111 
+Time=11180 Error dut: load=0, rco=0, Q=0000, scoreboard: load=0, rco=0 , Q=0001 
+time=11200, Test mode 00 completed 
+time=11200, Simulation Completed
