@@ -1,0 +1,123 @@
+
+--------------------------------
+Qflow project setup
+--------------------------------
+
+Technology set to osu035 from existing qflow_vars.sh file
+Regenerating files for existing project uart
+
+Running vesta static timing analysis
+
+----------------------------------------------
+Vesta static timing analysis tool
+(c) 2013-2017 Tim Edwards, Open Circuit Design
+----------------------------------------------
+
+Parsing library "osu035_stdcells"
+End of library at line 6636
+Parsing module "uart"
+Lib Read:  Processed 6637 lines.
+Verilog netlist read:  Processed 286 lines.
+Number of paths analyzed:  243
+
+Top 20 maximum delay paths:
+Path DFFSR_13/CLK to DFFSR_1/D delay 2166.55 ps
+Path DFFSR_42/CLK to DFFSR_28/D delay 2150.91 ps
+Path DFFSR_42/CLK to DFFSR_29/D delay 2150.91 ps
+Path DFFSR_11/CLK to DFFSR_1/D delay 2137.38 ps
+Path DFFSR_42/CLK to DFFSR_27/D delay 2116.67 ps
+Path DFFSR_33/CLK to DFFSR_28/D delay 2105.3 ps
+Path DFFSR_33/CLK to DFFSR_29/D delay 2105.3 ps
+Path DFFSR_42/CLK to DFFSR_26/D delay 2077.23 ps
+Path DFFSR_42/CLK to DFFSR_25/D delay 2077.23 ps
+Path DFFSR_33/CLK to DFFSR_27/D delay 2071.51 ps
+Path DFFSR_42/CLK to DFFSR_24/D delay 2039.64 ps
+Path DFFSR_33/CLK to DFFSR_26/D delay 2033.19 ps
+Path DFFSR_33/CLK to DFFSR_25/D delay 2033.19 ps
+Path DFFSR_12/CLK to DFFSR_1/D delay 2013.62 ps
+Path DFFSR_32/CLK to DFFSR_28/D delay 2001.81 ps
+Path DFFSR_32/CLK to DFFSR_29/D delay 2001.81 ps
+Path DFFSR_33/CLK to DFFSR_24/D delay 1995.18 ps
+Path DFFSR_42/CLK to DFFSR_36/D delay 1993.87 ps
+Path DFFSR_32/CLK to DFFSR_27/D delay 1967.91 ps
+Path DFFSR_42/CLK to DFFSR_31/D delay 1962.26 ps
+Computed maximum clock frequency (zero slack) = 461.564 MHz
+-----------------------------------------
+
+Number of paths analyzed:  243
+
+Top 20 minimum delay paths:
+Path DFFSR_40/CLK to DFFSR_41/D delay 322.421 ps
+Path DFFSR_15/CLK to output pin rx_data[0] delay 472.527 ps
+Path DFFSR_20/CLK to output pin rx_data[5] delay 472.527 ps
+Path DFFSR_16/CLK to output pin rx_data[1] delay 472.527 ps
+Path DFFSR_17/CLK to output pin rx_data[2] delay 472.527 ps
+Path DFFSR_18/CLK to output pin rx_data[3] delay 472.527 ps
+Path DFFSR_19/CLK to output pin rx_data[4] delay 472.527 ps
+Path DFFSR_23/CLK to output pin rx_empty delay 492.445 ps
+Path DFFSR_21/CLK to output pin rx_data[6] delay 494.127 ps
+Path DFFSR_22/CLK to output pin rx_data[7] delay 494.127 ps
+Path DFFSR_1/CLK to output pin tx_out delay 503.018 ps
+Path DFFSR_15/CLK to DFFSR_15/D delay 505.611 ps
+Path DFFSR_20/CLK to DFFSR_20/D delay 505.611 ps
+Path DFFSR_16/CLK to DFFSR_16/D delay 505.611 ps
+Path DFFSR_17/CLK to DFFSR_17/D delay 505.611 ps
+Path DFFSR_18/CLK to DFFSR_18/D delay 505.611 ps
+Path DFFSR_19/CLK to DFFSR_19/D delay 505.611 ps
+Path DFFSR_29/CLK to DFFSR_20/D delay 525.843 ps
+Path DFFSR_1/CLK to DFFSR_1/D delay 527.71 ps
+Path DFFSR_21/CLK to DFFSR_21/D delay 539.429 ps
+Design meets minimum hold timing.
+-----------------------------------------
+
+Number of paths analyzed:  135
+
+Top 20 maximum delay paths:
+Path input pin rx_enable to DFFSR_28/D delay 1211.19 ps
+Path input pin rx_enable to DFFSR_29/D delay 1211.19 ps
+Path input pin rx_enable to DFFSR_27/D delay 1175.79 ps
+Path input pin rx_enable to DFFSR_26/D delay 1136.17 ps
+Path input pin rx_enable to DFFSR_25/D delay 1136.17 ps
+Path input pin rx_enable to DFFSR_24/D delay 1098.9 ps
+Path input pin rx_enable to DFFSR_36/D delay 1037.83 ps
+Path input pin rx_enable to DFFSR_31/D delay 1020.23 ps
+Path input pin rx_enable to DFFSR_39/D delay 962.742 ps
+Path input pin tx_enable to DFFSR_14/D delay 924.315 ps
+Path input pin rx_enable to DFFSR_37/D delay 883.216 ps
+Path input pin tx_enable to DFFSR_13/D delay 875.66 ps
+Path input pin tx_enable to DFFSR_1/D delay 854.066 ps
+Path input pin rx_enable to DFFSR_38/D delay 772.709 ps
+Path input pin rx_enable to DFFSR_23/D delay 700.758 ps
+Path input pin tx_enable to DFFSR_2/D delay 650.07 ps
+Path input pin ld_tx_data to DFFSR_3/D delay 626.462 ps
+Path input pin ld_tx_data to DFFSR_4/D delay 626.462 ps
+Path input pin ld_tx_data to DFFSR_5/D delay 626.462 ps
+Path input pin ld_tx_data to DFFSR_6/D delay 626.462 ps
+-----------------------------------------
+
+Number of paths analyzed:  135
+
+Top 20 minimum delay paths:
+Path input pin txclk to DFFSR_14/CLK delay 0 ps
+Path input pin txclk to DFFSR_13/CLK delay 0 ps
+Path input pin txclk to DFFSR_12/CLK delay 0 ps
+Path input pin txclk to DFFSR_11/CLK delay 0 ps
+Path input pin txclk to DFFSR_10/CLK delay 0 ps
+Path input pin txclk to DFFSR_9/CLK delay 0 ps
+Path input pin txclk to DFFSR_8/CLK delay 0 ps
+Path input pin txclk to DFFSR_7/CLK delay 0 ps
+Path input pin txclk to DFFSR_6/CLK delay 0 ps
+Path input pin txclk to DFFSR_5/CLK delay 0 ps
+Path input pin txclk to DFFSR_4/CLK delay 0 ps
+Path input pin txclk to DFFSR_3/CLK delay 0 ps
+Path input pin txclk to DFFSR_2/CLK delay 0 ps
+Path input pin txclk to DFFSR_1/CLK delay 0 ps
+Path input pin rx_in to DFFSR_40/D delay 0 ps
+Path input pin ld_tx_data to DFFSR_2/D delay 83.5282 ps
+Path input pin tx_data[5] to DFFSR_8/D delay 145.099 ps
+Path input pin tx_data[4] to DFFSR_7/D delay 145.099 ps
+Path input pin tx_data[3] to DFFSR_6/D delay 145.099 ps
+Path input pin tx_data[2] to DFFSR_5/D delay 145.099 ps
+-----------------------------------------
+
+
