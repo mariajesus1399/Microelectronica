@@ -1,0 +1,123 @@
+
+--------------------------------
+Qflow project setup
+--------------------------------
+
+Technology set to osu050 from existing qflow_vars.sh file
+Regenerating files for existing project contador32bits
+
+Running vesta static timing analysis
+
+----------------------------------------------
+Vesta static timing analysis tool
+(c) 2013-2017 Tim Edwards, Open Circuit Design
+----------------------------------------------
+
+Parsing library "osu05_stdcells"
+End of library at line 6606
+Parsing module "contador32bits"
+Lib Read:  Processed 6607 lines.
+Verilog netlist read:  Processed 624 lines.
+Number of paths analyzed:  215
+
+Top 20 maximum delay paths:
+Path DFFPOSX1_6/CLK to DFFPOSX1_11/D delay 1702.89 ps
+Path DFFPOSX1_42/CLK to DFFPOSX1_47/D delay 1697.64 ps
+Path DFFPOSX1_36/CLK to DFFPOSX1_41/D delay 1697.64 ps
+Path DFFPOSX1_30/CLK to DFFPOSX1_35/D delay 1697.64 ps
+Path DFFPOSX1_24/CLK to DFFPOSX1_29/D delay 1697.64 ps
+Path DFFPOSX1_18/CLK to DFFPOSX1_23/D delay 1697.64 ps
+Path DFFPOSX1_12/CLK to DFFPOSX1_17/D delay 1697.64 ps
+Path DFFPOSX1_7/CLK to DFFPOSX1_11/D delay 1694.53 ps
+Path DFFPOSX1_43/CLK to DFFPOSX1_47/D delay 1689.76 ps
+Path DFFPOSX1_37/CLK to DFFPOSX1_41/D delay 1689.76 ps
+Path DFFPOSX1_31/CLK to DFFPOSX1_35/D delay 1689.76 ps
+Path DFFPOSX1_25/CLK to DFFPOSX1_29/D delay 1689.76 ps
+Path DFFPOSX1_19/CLK to DFFPOSX1_23/D delay 1689.76 ps
+Path DFFPOSX1_13/CLK to DFFPOSX1_17/D delay 1689.76 ps
+Path DFFPOSX1_8/CLK to DFFPOSX1_11/D delay 1681.93 ps
+Path DFFPOSX1_44/CLK to DFFPOSX1_47/D delay 1676.82 ps
+Path DFFPOSX1_38/CLK to DFFPOSX1_41/D delay 1676.82 ps
+Path DFFPOSX1_32/CLK to DFFPOSX1_35/D delay 1676.82 ps
+Path DFFPOSX1_26/CLK to DFFPOSX1_29/D delay 1676.82 ps
+Path DFFPOSX1_20/CLK to DFFPOSX1_23/D delay 1676.82 ps
+Computed maximum clock frequency (zero slack) = 587.236 MHz
+-----------------------------------------
+
+Number of paths analyzed:  215
+
+Top 20 minimum delay paths:
+Path DFFPOSX1_8/CLK to output pin Q[2] delay 480.128 ps
+Path DFFPOSX1_9/CLK to output pin Q[3] delay 482.483 ps
+Path DFFPOSX1_10/CLK to output pin load delay 484.764 ps
+Path DFFPOSX1_16/CLK to output pin load delay 484.764 ps
+Path DFFPOSX1_22/CLK to output pin load delay 484.764 ps
+Path DFFPOSX1_28/CLK to output pin load delay 484.764 ps
+Path DFFPOSX1_34/CLK to output pin load delay 484.764 ps
+Path DFFPOSX1_40/CLK to output pin load delay 484.764 ps
+Path DFFPOSX1_46/CLK to output pin load delay 484.764 ps
+Path DFFPOSX1_5/CLK to output pin load delay 484.764 ps
+Path DFFPOSX1_6/CLK to output pin Q[0] delay 509.449 ps
+Path DFFPOSX1_7/CLK to output pin Q[1] delay 509.919 ps
+Path DFFPOSX1_47/CLK to DFFPOSX1_2/D delay 605.342 ps
+Path DFFPOSX1_11/CLK to DFFPOSX1_13/D delay 610.32 ps
+Path DFFPOSX1_17/CLK to DFFPOSX1_19/D delay 610.32 ps
+Path DFFPOSX1_23/CLK to DFFPOSX1_25/D delay 610.32 ps
+Path DFFPOSX1_29/CLK to DFFPOSX1_31/D delay 610.32 ps
+Path DFFPOSX1_35/CLK to DFFPOSX1_37/D delay 610.32 ps
+Path DFFPOSX1_41/CLK to DFFPOSX1_43/D delay 610.32 ps
+Path DFFPOSX1_13/CLK to DFFPOSX1_13/D delay 640.256 ps
+Design meets minimum hold timing.
+-----------------------------------------
+
+Number of paths analyzed:  226
+
+Top 20 maximum delay paths:
+Path input pin reset to DFFPOSX1_11/D delay 1268.43 ps
+Path input pin reset to DFFPOSX1_35/D delay 1268.43 ps
+Path input pin reset to DFFPOSX1_29/D delay 1268.43 ps
+Path input pin reset to DFFPOSX1_23/D delay 1268.43 ps
+Path input pin reset to DFFPOSX1_47/D delay 1268.43 ps
+Path input pin reset to DFFPOSX1_17/D delay 1268.43 ps
+Path input pin reset to DFFPOSX1_41/D delay 1268.43 ps
+Path input pin reset to DFFPOSX1_6/D delay 1262.82 ps
+Path input pin reset to DFFPOSX1_18/D delay 1262.82 ps
+Path input pin reset to DFFPOSX1_30/D delay 1262.82 ps
+Path input pin reset to DFFPOSX1_42/D delay 1262.82 ps
+Path input pin reset to DFFPOSX1_12/D delay 1262.82 ps
+Path input pin reset to DFFPOSX1_24/D delay 1262.82 ps
+Path input pin reset to DFFPOSX1_36/D delay 1262.82 ps
+Path input pin mode[1] to DFFPOSX1_11/D delay 1246.6 ps
+Path input pin mode[1] to DFFPOSX1_35/D delay 1246.6 ps
+Path input pin mode[1] to DFFPOSX1_29/D delay 1246.6 ps
+Path input pin mode[1] to DFFPOSX1_17/D delay 1246.6 ps
+Path input pin mode[1] to DFFPOSX1_23/D delay 1246.6 ps
+Path input pin mode[1] to DFFPOSX1_41/D delay 1246.6 ps
+-----------------------------------------
+
+Number of paths analyzed:  226
+
+Top 20 minimum delay paths:
+Path input pin D[1] to DFFPOSX1_2/D delay 148.914 ps
+Path input pin D[1] to DFFPOSX1_43/D delay 148.914 ps
+Path input pin D[1] to DFFPOSX1_37/D delay 148.914 ps
+Path input pin D[1] to DFFPOSX1_31/D delay 148.914 ps
+Path input pin D[1] to DFFPOSX1_25/D delay 148.914 ps
+Path input pin D[1] to DFFPOSX1_19/D delay 148.914 ps
+Path input pin D[1] to DFFPOSX1_13/D delay 148.914 ps
+Path input pin D[1] to DFFPOSX1_7/D delay 148.914 ps
+Path input pin D[0] to DFFPOSX1_1/D delay 148.914 ps
+Path input pin D[0] to DFFPOSX1_42/D delay 148.914 ps
+Path input pin D[0] to DFFPOSX1_36/D delay 148.914 ps
+Path input pin D[0] to DFFPOSX1_30/D delay 148.914 ps
+Path input pin D[0] to DFFPOSX1_24/D delay 148.914 ps
+Path input pin D[0] to DFFPOSX1_18/D delay 148.914 ps
+Path input pin D[0] to DFFPOSX1_12/D delay 148.914 ps
+Path input pin D[0] to DFFPOSX1_6/D delay 148.914 ps
+Path input pin enable to DFFPOSX1_7/D delay 166.61 ps
+Path input pin D[3] to DFFPOSX1_4/D delay 178.209 ps
+Path input pin D[3] to DFFPOSX1_45/D delay 178.209 ps
+Path input pin D[3] to DFFPOSX1_39/D delay 178.209 ps
+-----------------------------------------
+
+
