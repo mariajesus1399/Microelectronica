@@ -18,7 +18,7 @@ output [0:31] dut_Q;
 `include "driver.v"
 `include "checker.v"
 `include "test.v"
-parameter ITERATIONS = 20000;
+parameter ITERATIONS = 5000;
 integer log;
 initial begin
 
@@ -31,7 +31,34 @@ initial begin
   $fdisplay(log, "time=%5d, Reset Completed", $time); /////
   $fdisplay(log, "time=%5d, Starting Test mode 00", $time);
   fork
+    test00(ITERATIONS);  
+    checker(ITERATIONS);
+  join
+  $fdisplay(log, "time=%5d, Test mode 00 completed ", $time);
+    $fdisplay(log, "time=%5d, Starting Reset", $time); ///////
+  drv_init();
+  $fdisplay(log, "time=%5d, Reset Completed", $time); /////
+  $fdisplay(log, "time=%5d, Starting Test mode 00", $time);
+  fork
+    test01(ITERATIONS);  
+    checker(ITERATIONS);
+  join
+  $fdisplay(log, "time=%5d, Test mode 00 completed ", $time);
+    $fdisplay(log, "time=%5d, Starting Reset", $time); ///////
+  drv_init();
+  $fdisplay(log, "time=%5d, Reset Completed", $time); /////
+  $fdisplay(log, "time=%5d, Starting Test mode 00", $time);
+  fork
     test10(ITERATIONS);  
+    checker(ITERATIONS);
+  join
+  $fdisplay(log, "time=%5d, Test mode 00 completed ", $time);
+    $fdisplay(log, "time=%5d, Starting Reset", $time); ///////
+  drv_init();
+  $fdisplay(log, "time=%5d, Reset Completed", $time); /////
+  $fdisplay(log, "time=%5d, Starting Test mode 00", $time);
+  fork
+    test11(ITERATIONS);  
     checker(ITERATIONS);
   join
   $fdisplay(log, "time=%5d, Test mode 00 completed ", $time);

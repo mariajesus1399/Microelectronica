@@ -37,7 +37,7 @@ input integer iteration;
 
   repeat (iteration) begin  
     @(negedge clk) begin
-	D = {$random} % 4;
+	D = {$random} % 1000000;
 	enable = 1; 
 	mode = 2'b11;
     end
